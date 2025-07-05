@@ -163,6 +163,6 @@ Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ## Author
 
-Created by Dario  
+Created by dacoolpatato
 2025 – Personal security tools and system utilities  
 If you find this tool useful, star the project or open an issue with feedback.
