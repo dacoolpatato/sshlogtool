@@ -1,0 +1,7 @@
+Package: sshlogtool
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Dario <dario@example.com>
+Description: SSH login monitor and logger tool for Linux servers and desktops
