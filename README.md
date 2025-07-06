@@ -150,7 +150,7 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
 You may:
 - Use this tool for personal or educational purposes
-- Share the tool with credit to the original author (Dario)
+- Share the tool with credit to the original author (dacoolpatato)
 
 You may not:
 - Modify, fork, or rebrand the tool
